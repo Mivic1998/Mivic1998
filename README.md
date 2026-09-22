@@ -26,8 +26,6 @@ My background combines strong analytical and quantitative problem-solving with p
 - Git
 - GitHub
 - VS Code
-- Stripe API
-- Google Gemini API
 
 ---
 
